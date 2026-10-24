@@ -1,7 +1,6 @@
 Customer Support Ticket Classification System
 
 Project Overview
-
 This project uses Natural Language Processing (NLP) and Machine Learning to classify customer support tickets by ticket type and priority.
 
 Objectives
